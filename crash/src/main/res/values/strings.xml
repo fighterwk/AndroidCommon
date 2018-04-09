@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">异常</string>
+
+    <string name="title_exception_detail">异常详情</string>
+</resources>
